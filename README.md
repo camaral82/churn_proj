@@ -1,4 +1,4 @@
-# churn_proj
+# churn_project
 Exploration of two different types of predictive models (glmnet and rf) using the CARET package
 
 
@@ -11,7 +11,7 @@ I will use the package CARET that automates supervised learning (predictive mode
 
 The first order of business is to create a reusable trainControl object that I can use to reliably compare them.
 
-#The data: customer churn at telecom company
-#Fit different models and choose the best
-#Models must use the same training/test splits
-#Create a shared trainControl object
+* The data: customer churn at telecom company
+* Fit different models and choose the best
+* Models must use the same training/test splits
+* Create a shared trainControl object
