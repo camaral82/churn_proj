@@ -1,4 +1,4 @@
-# churn_project
+# Churn Project
 Exploration of two different types of predictive models (glmnet and rf) using the CARET package
 
 
